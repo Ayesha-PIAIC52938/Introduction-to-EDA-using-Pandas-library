@@ -1,4 +1,0 @@
-https://www.kaggle.com/datasets/yingwurenjian/chicago-divvy-bicycle-sharing-data
-
-
-download this dataset and expand it in this folder 
